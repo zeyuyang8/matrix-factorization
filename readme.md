@@ -1,3 +1,1 @@
-# matrix-factorization
-
-In this project, we predict movie ratings by matrix factorization.
+# Movie rating prediction based on federated matrix factorization
